@@ -6,8 +6,8 @@ import { transformAssetUrls } from "@quasar/vite-plugin";
 import { fileURLToPath, URL } from "node:url";
 
 export default defineConfig({
-  // GitHub Pages
-  base: "/SP-Frontend/",
+/*   // GitHub Pages
+  base: "/SP-Frontend/", */
   resolve: {
     // Alias de las carpetas
     alias: {
